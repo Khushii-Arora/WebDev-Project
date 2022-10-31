@@ -1,0 +1,11 @@
+# Vacation calendar
+
+Vacation calendar for the Mini Hackathon Project.
+
+
+
+## Installation
+
+- fork this repository
+- clone into your local machine
+- open this in server
